@@ -1,7 +1,7 @@
 import yt_dlp
 
 # Change this path to your desired download folder
-DOWNLOAD_PATH = 'A:\Videos\playlist'
+DOWNLOAD_PATH = '/data/data/com.termux/files/home/storage/downloads'
 
 def download_video(url):
     with yt_dlp.YoutubeDL({}) as ydl:
