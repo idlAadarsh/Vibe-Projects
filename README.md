@@ -17,5 +17,5 @@ A Python project that allows you to download **4K YouTube videos** directly on A
 ## Usage
 1. Clone the repository
 ```bash
-git clone https://github.com/<idlAadarsh>/Termux-YouTube-Downloader.git
+git clone https://github.com/idlAadarsh/Vibe-Projects.git
 cd Termux-YouTube-Downloader
